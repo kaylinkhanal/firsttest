@@ -7,8 +7,7 @@ const fullName= {
   'Anjal' : 'Thapa', 
 }
 
-// initial array
-let keys = Object.keys(fullName);
+
 let values = Object.values(fullName);
 
 sname.map((item,index)=>{
