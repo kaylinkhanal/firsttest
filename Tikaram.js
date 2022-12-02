@@ -6,7 +6,7 @@ const fullName= {
   'parasar' : 'Baral',
   'Anjal' : 'Thapa', 
 }
-
+//Modified by Aayush
 // initial array
 let keys = Object.keys(fullName);
 let values = Object.values(fullName);

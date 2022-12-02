@@ -5,6 +5,7 @@ let fullname = {
   Saru : 'maurati',
   Kaylin: 'khanal'  
 }
+//Modified by Aayush
 
 // solution : 
 arr.map((item,id)=>{
