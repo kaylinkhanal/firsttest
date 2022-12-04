@@ -10,4 +10,9 @@ a="hsgsgsgsggsgs"
 function kCHa(){
     console.log("Thik cha");
 }
-kCHa()
+
+
+function sandip(){
+    return 'sandip'
+}
+// hi people, whats code
