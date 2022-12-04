@@ -1,4 +1,3 @@
 i am copy
-
-
-console.log("Added by Tikaram Ac");
+const a=68;
+const a=45;
