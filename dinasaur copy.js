@@ -1,3 +1,3 @@
 i am copy
-const a=68;
-const a=45;
+const a = 20;
+const t = 30;
