@@ -1,7 +1,13 @@
 i am copy
-const a=68;
-const z = 43; //changes by sandip
-const a = 20;
-const t = 30;
-i am copy
 
+const a = 20;
+const z = 200
+
+function sakhyam(){
+    return 'sakxshyam'
+}
+
+
+function sandip{
+    return 'sandip'
+}
