@@ -15,3 +15,13 @@ const fullNameWithSurname = sname.map((item,index)=>{
 });
 
 console.log(fullNameWithSurname);
+
+
+const meroNamm = ()=>{
+  const pahilo = "Tikaram";
+  const antim = "Acharya";
+
+  return `${pahilo} ${antim}`
+}
+
+meroNamm();
