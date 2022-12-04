@@ -1,6 +1,6 @@
 const obj={
-    'name':'Roshan',
-    'age':24,
+    'name':'Roshan Bhandari',
+    'age':25,
     'address':'tilakpur'
 }
 
