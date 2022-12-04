@@ -8,6 +8,6 @@ function sakhyam(){
 }
 
 
-function sandip{
+function sandip(){
     return 'sandip'
 }
