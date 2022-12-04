@@ -1,3 +1,3 @@
 i am copy
 const a=68;
-const a = 43; //changes by sandip
+const z = 43; //changes by sandip
